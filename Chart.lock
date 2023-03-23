@@ -1,0 +1,9 @@
+dependencies:
+- name: airflow
+  repository: https://github.com/bitnami/charts/raw/archive-full-index/bitnami
+  version: 10.3.1
+- name: keycloak
+  repository: https://github.com/bitnami/charts/raw/archive-full-index/bitnami
+  version: 13.3.0
+digest: sha256:4cd51e37fc9b0a3890edfa79798d16b8c85408bb9fa392c285c525ca3906525d
+generated: "2023-03-23T10:16:38.1050935+02:00"
