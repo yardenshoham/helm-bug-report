@@ -1,4 +1,4 @@
-# Helm bug report
+# Helm issue https://github.com/helm/helm/issues/11933
 
 Helm version: `version.BuildInfo{Version:"v3.11.2", GitCommit:"912ebc1cd10d38d340f048efaf0abda047c3468e", GitTreeState:"clean", GoVersion:"go1.18.10"}`
 
